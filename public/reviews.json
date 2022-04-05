@@ -1,0 +1,45 @@
+[
+	{
+		"id":1,
+		"name":"Angela Lucas",
+		"ratings":5,
+		"review":"Great service! Explained me about issues with computer and helped me with it.",
+		"img":"https://randomuser.me/api/portraits/men/32.jpg"
+	},
+	{
+		"id":2,
+		"name":"Jeremy Adams",
+		"ratings":5,
+		"review":"My experience was exhausting but everyone I dealt with today were awesome. They were so good, never got annoyed with me and there was so much that needed done.",
+		"img":"https://randomuser.me/api/portraits/women/42.jpg"
+	},
+	{
+		"id":3,
+		"name":"Eloise Rogers",
+		"ratings":4.5,
+		"review":"fixed a problem I'd been having for a week. I'm extremely happy with the service, and the tech support was very patient and helpful. Extremely happy with the service!",
+		"img":"https://randomuser.me/api/portraits/men/20.jpg"
+	},
+	{
+		"id":4,
+		"name":"James Goodness",
+		"ratings":4,
+		"review":"Problems occurred about a week ago, and attempts were made to fix it by Support Nerds, but the resolution could not be completed until today. Finally successful, and grateful for Richard for stepping in and resolving everything.",
+		"img":"https://randomuser.me/api/portraits/women/8.jpg"
+	},
+	
+	{
+		"id":5,
+		"name":"Jason Willy",
+		"ratings":5,
+		"review":"Very patient, understanding, great and fast customer service.",
+		"img":"https://randomuser.me/api/portraits/men/29.jpg"
+	},
+	{
+		"id":6,
+		"name":"Anna Paul",
+		"ratings":3,
+		"review":"Customer service reps were polite and fixed the problem.",
+		"img":"https://randomuser.me/api/portraits/men/73.jpg"
+	}
+]
