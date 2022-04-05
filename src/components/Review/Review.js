@@ -6,7 +6,7 @@ const Review = (props) => {
 	return (
 		<div className='review'>
 			<img src={img} alt="" />
-			<p>{name}</p>
+			<h3>{name}</h3>
 			<p><small>Ratings: {ratings}</small></p>
 			<p>{review}</p>
 		</div>
