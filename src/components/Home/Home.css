@@ -25,8 +25,32 @@
 
 .review-section{
 	height: 95vh;
-	
+	margin: 0 50px;
 }
 .review-section h1{
 	text-align: center;
+}
+
+.home-review-section{
+	display: grid;
+	grid-template-columns: repeat(3,1fr);
+	justify-items: center;
+}
+.see-all-review{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 50px 0;
+}
+.review-section-btn{
+	background-color: rgb(5, 134, 255);
+	color: white;
+	padding: 8px 30px;
+	font-size: 20px;
+	border: none;
+	border-radius: 8px;
+	cursor: pointer;
+}
+.review-section-btn:hover{
+	background-color: rgb(5, 80, 255);
 }
