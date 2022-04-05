@@ -2,6 +2,8 @@
 
 My project [Live Link](https://laptop-finder-sakibahamedkhan.netlify.app/)
 
+[https://laptop-finder-sakibahamedkhan.netlify.app/](https://laptop-finder-sakibahamedkhan.netlify.app/)
+
 ## My Application page
 * Home
 * Review
